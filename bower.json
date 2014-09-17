@@ -1,0 +1,26 @@
+{
+  "name": "jarvis",
+  "version": "0.0.1",
+  "authors": [
+    "Pavel Evsegneev <pavel@evsegneev.pp.ua>"
+  ],
+  "description": "Jarvis smart house system",
+  "main": "dist/client/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Smart",
+    "house"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Ahineya/jarvis",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

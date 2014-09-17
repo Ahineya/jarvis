@@ -1,0 +1,23 @@
+{
+  "name": "jarvis",
+  "version": "0.0.1",
+  "description": "Jarvis smart house system",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ahineya/Jarvis"
+  },
+  "keywords": [
+    "Smart",
+    "House"
+  ],
+  "author": "Pavel Evsegneev <pavel@evsegneev.pp.ua>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahineya/Jarvis/issues"
+  },
+  "homepage": "https://github.com/Ahineya/Jarvis"
+}
